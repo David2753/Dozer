@@ -5,7 +5,7 @@ import sys
 from . import db
 
 config = {
-    'prefix': '&', 'developers': [],
+    'prefix': '%', 'developers': [],
     'tba': {
         'key': ''
     },
